@@ -104,3 +104,15 @@ let userAge = prompt("What is your age? ");
 console.log(userAge);
 
 //write a program that asks the user to enter their age and outputs the year they were born in
+
+
+//Assignment below
+
+var FirstName = "John";
+let lastName = "Juma";
+
+let Age = 45;
+let course = "Software development"
+const highscore = 89.87;
+
+var nickname = "Jonny"
